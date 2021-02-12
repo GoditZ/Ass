@@ -1,1 +1,79 @@
-boobs
+body, html {
+   height: 100%;
+}
+.frame1 {
+background-image: url(../img/fr1.png);
+position: relative;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+text-align: center;
+height: 100vh;
+font-family: 'Russo one';
+/*padding-right: 1600px;*/
+
+}
+
+.frame2 {
+    background-image: url(../img/fr2.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 100vh;
+    z-index: -1;
+}
+.frame3 {
+    background-image: url(../img/fr3.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 100vh;
+}
+.frame4 {
+    background-image: url(../img/fr4.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 100vh;
+}
+.frame5 {
+    background-image: url(../img/fr5.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 100vh;
+} 
+.text {
+
+
+}
+.main-menu {
+    font-size: 40px;
+}
+.menu {
+  font-size: 22px;
+  padding-right: 55px;
+ 
+}
+.girl1 {
+    padding-bottom: 700px;
+    position: absolute;
+    height: 5;
+}
+.girl2 {
+    position: absolute;
+    padding-left: 1500px;
+    /*padding-top: 100px ;*/
+    
+    
+   
+}
+
