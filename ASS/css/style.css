@@ -43,6 +43,7 @@ z-index: 1;
     text-align: center;
     height: 100vh;
     z-index: -1;
+  
 
 } 
 .text {
@@ -80,6 +81,12 @@ z-index: 1;
     position: absolute;
     margin-left: 1443px;
     margin-top: 70px;
+}
+
+.cock{
+    position: absolute;
+width: 800px;
+height: 1000px;
 }
 .text1 {
 font-size: 42px;
